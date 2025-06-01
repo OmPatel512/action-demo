@@ -1,1 +1,1 @@
-## Helllo TechStax
+## Hello techStax
